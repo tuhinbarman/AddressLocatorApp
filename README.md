@@ -6,7 +6,7 @@ Steps :
 
   - git clone https://github.com/tuhinbarman/AddressLocatorApp.git
 
-3. Get into the project directory:
+3 . Get into the project directory:
 
   - run docker engine
   - run command : docker compose up --build
